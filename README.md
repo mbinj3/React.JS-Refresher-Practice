@@ -14,7 +14,7 @@
 8.  React Events
 9.  Lists and Keys
 10. React Forms
-11. React Hooks (useState, useEffect, useRef, useReducer,
+11. React Hooks (useState, useEffect, useRef, useReducer, 
     ContextAPI and useContext, useMemo and useCallback) 
 12  React State Management using useReducer hook and ContextAPI
 13. React Router (BrowserRouter, Routes, Route, Link, NavLink, useNavigate)
